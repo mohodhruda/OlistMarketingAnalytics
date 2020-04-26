@@ -65,7 +65,7 @@ Made some initial purchases but have not seen them since. Was it a bad customer 
 4. Lost Customers —
 Poorest performers of our RFM model. They might have gone with our competitors for now and will require a different activation strategy to
 
-![RFM](https://github.com/mohodhruda/OlistMarketingAnalytics/tree/master/3.%20RFM%20Modeling%20%26%20Customer%20Segmentation/Segmentation.PNG)
+![RFM](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/3.%20RFM%20Modeling%20%26%20Customer%20Segmentation/Segmentation.PNG)
 
 
 ## Recommendation Systems  
