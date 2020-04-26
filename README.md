@@ -5,11 +5,7 @@ Olist Streamlit Analytics Dashboard - https://olist-streamlit-dashboard.herokuap
 
 Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/
 
-Marketing Dashboard - https://prod-useast-a.online.tableau.com/#/site/mohodhruda/views/OlistMarketingDashboard/Dashboard
-
-(Credentials to access Marketing Dashboard- 
-Username: mohod.h@husky.neu.edu
-Password : Tableau1!)
+Marketing Dashboard - https://public.tableau.com/profile/hruda.mohod#!/vizhome/OlistMarketingDashboard/Dashboard
 
 CLAAT Document - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM/edit#heading=h.ax8bqte2btx2
 
@@ -18,11 +14,11 @@ CLAAT Preview Link - https://codelabs-preview.appspot.com/?file_id=1BoSlam9Pp4LP
 ## Olist Marketing Analytics 
 
 A Data Driven Algorithmic Marketing system for brazil’s biggest online marketplace Olist, to segment customers, RFM & Uplift Modeling, Identify Upselling and Cross Selling opportunities using Targeted Recommendations.
-![Olist](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/marketing-analytics-featured-image-1.jpg)
+![Olist](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/marketing-analytics-featured-image-1.jpg)
 
 Marketing Analytics at Olist helps in measuring, managing and analyzing marketing performance to maximize its effectiveness and optimize ROI. Understanding Marketing analytics allows Olist to minimize wasted web marketing dollars by attributing budget to the targeted campaign, missed opportunities by not being able to show recommendations personalized as per the user's preferences. 
 
-![geo](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/mapplot.png)
+![geo](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/mapplot.png)
 
 ## Approach
 
@@ -38,20 +34,20 @@ Marketing Analytics at Olist helps in measuring, managing and analyzing marketin
 1. Higher Management Executives - Marketing Dashboard
 • To get insights on a high level cohorts and Metrics for Revenue by Products, day of week and month. 
 • To look at overall Customer Segments to see the health of marketing.  
-![Dash1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/Dash%201.JPG)
+![Dash1](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/Dash%201.JPG)
 
 2. Marketing Data Scientist & Automated System:
 • To form promotion strategies based on Marketing Insights and Uplift
 • Recommend products to customers based on their liking along with any Upselling and Cross Selling opportunities
 • Optimize the Marketing Funnel to boost Revenue, offer Targeted Recommendations
-![Dash2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/StreamDash1.PNG)
+![Dash2](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/StreamDash1.PNG)
 
 
 3. End Users or Potential Customers:
 • Explore products recommended by the system
 • Receive promotions based on their loyalty, demography
 • Explore Products which are similar to what they are about to buy or have purchased previously
-![Dash3](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/Heroku2.PNG)
+![Dash3](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/Heroku2.PNG)
 
 ## Customer Segmentation and RFM Modeling 
 
@@ -69,7 +65,7 @@ Made some initial purchases but have not seen them since. Was it a bad customer 
 4. Lost Customers —
 Poorest performers of our RFM model. They might have gone with our competitors for now and will require a different activation strategy to
 
-![RFM](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/3.%20RFM%20Modeling%20%26%20Customer%20Segmentation/Segmentation.PNG)
+![RFM](https://github.com/mohodhruda/OlistMarketingAnalytics/tree/master/3.%20RFM%20Modeling%20%26%20Customer%20Segmentation/Segmentation.PNG)
 
 
 ## Recommendation Systems  
@@ -78,7 +74,7 @@ Recommender systems are algorithms aimed at suggesting relevant items to users (
 
 Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. As a proof of the importance of recommender systems, we can mention that, a few years ago, Netflix organised a challenge (the "Netflix prize") where the goal was to produce a recommender system that performs better than its own algorithm with a prize of 1 million dollars to win.
 
-![Reco](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/5.%20Recommendation%20System/Heroku1.PNG)
+![Reco](https://github.com/mohodhruda/OlistMarketingAnalytics/tree/master/5.%20Recommendation%20System/Heroku1.PNG)
 
 We will be using below approach to Recommend products - 
  
@@ -99,15 +95,10 @@ We show Popular Products by current month for new customers.
 
 ## Dashboards - 
 
-![Streamlit2](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/Dash3.JPG)
+![Streamlit2](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/Dash3.JPG)
 
-![Streamlit1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/StreamDash1.PNG)
+![Streamlit1](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/StreamDash1.PNG)
 
-![Social1](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/streaming.png)
+![Social1](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/streaming.png)
 
-![Social](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Olist%20Marketing%20Analytics%20Project/Images/StreamDash3.PNG)
-
-
-
-
-
+![Social](https://github.com/mohodhruda/OlistMarketingAnalytics/blob/master/Images/StreamDash3.PNG)
